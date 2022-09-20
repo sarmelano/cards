@@ -27,3 +27,13 @@ h2 {
     line-height: 22px;
     color: black;
 }
+
+p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: black;
+    text-align: center;
+}
