@@ -36,6 +36,8 @@ h2 {
     font-size: 18px;
     line-height: 22px;
     color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 p {
@@ -46,4 +48,6 @@ p {
     line-height: 18px;
     color: black;
     text-align: center;
+    margin: 0;
+    padding: 0 5px 0 5px;
 }
