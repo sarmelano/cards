@@ -18,3 +18,12 @@ img {
     width: 130px;
     height: 130px;
 }
+
+h2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: black;
+}
