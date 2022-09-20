@@ -2,13 +2,19 @@
     box-sizing: border-box;
 }
 
-.card {
-    display: inline-block;
-    width: 200px;
-    background-color:  #E0E0E0;
+body {
+    background-color: #E5E5E5;
 }
 
-.pics {
+.card {
+    display: inline-block;
+    text-align: center;
+    width: 200px;
+    background-color:  #E0E0E0;
+    margin: 30px;
+}
+
+img {
     width: 130px;
     height: 130px;
 }
