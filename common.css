@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-body {
+.container {
     background-color: #E5E5E5;
     width: 668px;
     margin: 0 auto;
